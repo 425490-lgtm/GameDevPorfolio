@@ -10,4 +10,4 @@ SpaceGame is a 2D arcade-style space shooter developed using the Processing fram
 
 * [Windows](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/src/SpaceGame/windows-amd64.zip)
 * [MacOS](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
-* [Source Code](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/src/SpaceGame/SpaceGame.zip)
+* [Source Code](https://github.com/425490-lgtm/GameDevPorfolio/tree/main/src/SpaceGame/SpaceGame)
