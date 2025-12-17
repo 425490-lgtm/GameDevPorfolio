@@ -3,7 +3,7 @@
 ## Contact info: [My Email](mailto:425490@graniteschools.org)
 
 ## Certifications
-![Game Development](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/images/Kai%20Li%20Cantwell_Game%20Development%20Fundamentals%201_12152025.pdf)
+[Game Development](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/images/Kai%20Li%20Cantwell_Game%20Development%20Fundamentals%201_12152025.pdf)
 
 # Term 1
 ## Space Game
