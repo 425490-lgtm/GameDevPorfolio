@@ -22,8 +22,6 @@ SpaceGame is a 2D arcade-style space shooter developed using the Processing fram
 ## Maltigi's Haunted Mansion
 Maltigi’s Haunted Mansion is a horror RPG where you complete eerie tasks to collect keys and escape a cursed mansion, all while evading the relentless Maltigi who stalks your every move.
 
-I was responsible for creating most of the main code like the enemy and rooms class, along with the main movements of the player and the enemy
-
 ![Maltigi'sHauntedMansion](https://github.com/9683115-cyber/GameDev-group-7/blob/main/Code%20diagram/MaltigisHauntedMansion.png)
 
 [Maltigi's Haunted Mansion Repository](https://github.com/9683115-cyber/GameDev-group-7/blob/main/README.md)
