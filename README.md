@@ -1,6 +1,6 @@
 # Kai Li Cantwell's Game Development Portfolio
 
-## Contact info: [My Email](mailto:425490@graniteschools.org)
+## Contact info: [](mailto:425490@graniteschools.org)
 
 ## Certifications
 [Game Development](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/images/Kai%20Li%20Cantwell_Game%20Development%20Fundamentals%201_12152025.pdf)
