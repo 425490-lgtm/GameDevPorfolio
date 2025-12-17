@@ -27,7 +27,3 @@ I was responsible for creating most of the main code like the enemy and rooms cl
 ![Maltigi'sHauntedMansion](https://github.com/9683115-cyber/GameDev-group-7/blob/main/Code%20diagram/MaltigisHauntedMansion.png)
 
 [Maltigi's Haunted Mansion Repository](https://github.com/9683115-cyber/GameDev-group-7/blob/main/README.md)
-
-* [Windows](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/src/SpaceGame/windows-amd64.zip)
-* [MacOS](https://github.com/425490-lgtm/GameDevPorfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
-* [Source Code](https://github.com/425490-lgtm/GameDevPorfolio/tree/main/src/SpaceGame/SpaceGame)
